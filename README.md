@@ -1,7 +1,7 @@
 # Image-Filter
 Image filters program one for grey images other for color one.
 
-It uses small image with bitmap format and have the following features :
+It uses small image with bitmap format and has the following features :
 
 1. Black & White Filter
 2. Invert Filter
